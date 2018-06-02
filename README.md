@@ -493,10 +493,8 @@ alcanzar al finalizar este proyecto:
 
 ***
 
-## Puntos de experiencia
+## Consejos para adquirir experiencia
 
-* Completando los requerimientos mínimos de este proyecto ganarás 250 XPs.
-* Completando el hacker edition de este proyecto ganarás 100 XPs adicionales.
 * Completar los [ejericicios de manipulación de arreglos en el LMS](https://lms.laboratoria.la/cohorts/scl-2018-05-bc-core-am/courses/javascript/04-arrays/06-practice)
 * Completar los [ejericicios de manipulación de objetos en el LMS](https://lms.laboratoria.la/cohorts/scl-2018-05-bc-core-am/courses/javascript/05-objects/06-practice)
 
