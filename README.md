@@ -487,9 +487,9 @@ alcanzar al finalizar este proyecto:
 | Solución de problemas | 2
 | Dar y recibir feedback | 2
 | Adaptabilidad | 2
-| Trabajo en equipo | 1
-| Comunicación eficaz | 1
-| Presentaciones | 1
+| Trabajo en equipo | 2
+| Comunicación eficaz | 2
+| Presentaciones | 2
 
 ***
 
