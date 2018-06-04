@@ -438,14 +438,14 @@ alcanzar al finalizar este proyecto:
 |--------------------------|----------------|
 | Completitud | 3
 | Investigación | 3
-| Documentación | 4
+| Documentación | 2
 
 ### Tech
 
 | Habilidad | Nivel esperado |
 |-----------|----------------|
 | **JavaScript** | |
-| Estilo | 3
+| Estilo | 2
 | Nomenclatura/semántica | 3
 | Funciones/modularidad | 2
 | Estructuras de datos | 2
@@ -453,32 +453,33 @@ alcanzar al finalizar este proyecto:
 | **HTML** | |
 | Validación | 3
 | Estilo | 3
-| Semántica | 3
+| Semántica | 2
 | SEO | 0
 | **CSS** | |
-| DRY | 3
+| DRY | 2
 | Responsive | 2
 | **SCM** | |
-| Git | 1
+| Git | 3
 | GitHub | 2
 | **CS** | |
-| Lógica | 2
+| Lógica | 1
 | Arquitectura | 2
-| Patrones/paradigmas | 2
+| Patrones/paradigmas | 0
 
 ### UX
 
 | Habilidad | Nivel esperado |
 |-----------|----------------|
-| User Centricity | 2 |
-| Entrevistas | 1 |
+| User Centricity | 3 |
+| Entrevistas | 2 |
 | Contraste | 3 |
 | Alineación | 3 |
 | Jerarquía | 2 |
-| Tipografía | 3 |
-| Color | 3 |
+| Tipografía | 2 |
+| Color | 2 |
 
 ### Habilidades Blandas
+Esperamos que alcances al menos el nivel 2 en todas tus habilidades blandas.
 
 | Habilidad | Nivel esperado |
 |-----------|----------------|
